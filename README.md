@@ -1,1 +1,5 @@
 # Spotify-Trending-Song-Prediction
+
+For our project, we aimed to create a predictive model to determine the viral potential of songs based on a comprehensive analysis of song statistics. To achieve this, we utilized two primary datasets from Spotify. The first dataset, tracks_df, contains detailed information on over 1.2 million songs, including their energy index, danceability, liveness, tempo, and other musical features. The second dataset, charts_df, contains ingormation on the performance of songs across various Spotify charts, detailing their presence and duration within these charts throughout different years.
+
+By analyzing these datasets, we developed a robust predictive model that can forecast the likelihood of a song going viral. This was achieved by examining both the intrinsic qualities of the songs and their historical performance on Spotify charts. Each section of our notebook is carefully annotated to explain the rationale behind our analysis, the methodologies employed, and the insights derived from our findings.
